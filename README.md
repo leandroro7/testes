@@ -20,8 +20,8 @@ Um exemplo é a loclização do link: https://nominatim.openstreetmap.org/revers
 do tipo <cycleway>
 
 '<addressparts>
-    <address29>'Parque Gigante</address29>
-    <cycleway>'Ciclovia Beira-Rio</cycleway>
+    <address29>Parque Gigante</address29>
+    <cycleway>Ciclovia Beira-Rio</cycleway>
     <suburb>Praia de Belas</suburb>
     <city_district>Porto Alegre</city_district>
     <city>Porto Alegre</city>
