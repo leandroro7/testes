@@ -19,9 +19,9 @@ Nos arquivos existem coordenadas para locais de diferentes tipos, existem muitos
 Um exemplo é a loclização do link: https://nominatim.openstreetmap.org/reverse?lat=-30.06761588&lon=-51.23976111
 do tipo <cycleway>
 
-<addressparts>
-    <address29>Parque Gigante</address29>
-    <cycleway>Ciclovia Beira-Rio</cycleway>
+'<addressparts>'
+    '<address29>'Parque Gigante'</address29>'
+    '<cycleway>'Ciclovia Beira-Rio'</cycleway>'
     <suburb>Praia de Belas</suburb><
     city_district>Porto Alegre</city_district>
     <city>Porto Alegre</city>
