@@ -19,7 +19,7 @@ Nos arquivos existem coordenadas para locais de diferentes tipos, existem muitos
 Um exemplo é a loclização do link: https://nominatim.openstreetmap.org/reverse?lat=-30.06761588&lon=-51.23976111
 do tipo <cycleway>
 
-'
+'''
 <addressparts>
     <address29>Parque Gigante</address29>
     <cycleway>Ciclovia Beira-Rio</cycleway>
@@ -33,7 +33,7 @@ do tipo <cycleway>
     <country>Brasil</country>
     <country_code>br</country_code>
 </addressparts>       
-'
+''''
 Para mais informações acesse: https://wiki.openstreetmap.org/wiki/Pt:Map_Features#Elementos_Principais
 
 Para contornar essa situação criei mais uma coluna no DB chamada description que contem a informação em formato Texto, complementar as outras informações existentes no XML de retorno.
