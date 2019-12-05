@@ -1,9 +1,9 @@
 # Diretorio de Códigos do Testes 
 
 
-Instale as libs e suas dependencias
-pymysql 
-pymongo 
+### Instale as libs e suas dependencias
+* pymysql 
+* pymongo 
 
 1) Crie uma pasta para os arquivos do projeto
 
